@@ -1,0 +1,8 @@
+"# Simple To-Do App" 
+"" 
+"A small demo for Git and GitHub basics." 
+"" 
+"## How to run" 
+"```bash" 
+"python3 todo.py" 
+"```" 
