@@ -16,3 +16,7 @@
 python todo.py
 python todo.py --list
 ```
+
+## Flags
+- --list : print todos with hashtags
+- --count: print total number of todos
