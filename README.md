@@ -6,3 +6,13 @@
 "```bash" 
 "python3 todo.py" 
 "```" 
+
+## Project Structure
+- README.md: docs
+- todo.py: tiny CLI demo
+
+## How to Run
+```bash
+python todo.py
+python todo.py --list
+```
